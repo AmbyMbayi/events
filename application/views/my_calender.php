@@ -12,7 +12,7 @@
 <body>
 <div class="container">
 	<h1>Full Calendar </h1>
-	<div class="row" style="">
+	<div class="row" style="width: 50%">
 		<div class="col-md-12">
 			<div id="calendar"></div>
 		</div>
